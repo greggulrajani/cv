@@ -2,7 +2,7 @@
 
 _Software engineer, architect and leader based in Edinburgh, Scotland_ <br>
 
-[greg@gulrajani.org ](mailto:greg@gulrajani.org) | [https://www.linkedin.com/in/greg-gulrajani-091771 ](https://www.linkedin.com/in/greg-gulrajani-091771/) | [https://github.com/greggulrajani/ ](https://github.com/greggulrajani/)
+[E-Mail ](mailto:greg@gulrajani.org) | [LinkedIn](https://www.linkedin.com/in/greg-gulrajani-091771/) | [Github](https://github.com/greggulrajani/)
 
 ## 💻 Technical Experience
 
