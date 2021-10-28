@@ -15,7 +15,7 @@ A platform for managing wealth.
 - Created GraphQL API to replace existing Hypermedia API which reduced bandwidth costs by 13%.
 - Help design and develop integration test strategy that allowed us to release
 multiple times per day.
-- Attend all Scrum ceremonies for four teams.
+- Attend most Scrum ceremonies for four teams.
 - Participate in code reviews and planning sessions.
 - **_Technologies used:_** AWS Lambda, Faragte, S3, ELB, DynamoDB, Docker, GraphQL, Java, Postgres, Oracle, React, Javascript, Prometheus,. Grafana.
 <br><br>
