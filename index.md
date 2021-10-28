@@ -105,6 +105,6 @@ Developed XML Schema parser for XML Search engine.
 
 ## 📌 Personal
 - Father
-- Avid hill runner 
+- Avid hill runner [Strava] (https://www.strava.com/athletes/6909)
 - Photography [https://www.instagram.com/gulrajanigregory/](https://www.instagram.com/gulrajanigregory/) [https://www.blipfoto.com/gwak](https://www.blipfoto.com/gwak)
   <br><br>
