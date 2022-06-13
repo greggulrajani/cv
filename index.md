@@ -6,8 +6,13 @@ _Software engineer, architect and leader based in Edinburgh, Scotland_ <br>
 
 ## 💻 Technical Experience
 
-**Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Present)_ <br>
+**Head of Software Development at Nucleus Financial** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
 A platform for managing wealth.
+- Alignment of security practices though multiple development teams.
+- Setting strategy for growth by devolving all organisational decision to individual teams.
+- Outlined technology roadmap for supporting multiple wrap platforms.
+
+**Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
 - Oversaw all internal development and reported on current and future development to relevant stakeholders.
 - Grew development team and guided the hiring criteria and process.
 - Designed and assisted in porting of all batch and multithreaded ETL processes to AWS Lambda and Fargate infrastructure.
