@@ -2,15 +2,16 @@
 
 _Software engineer, architect and leader based in Edinburgh, Scotland_ <br>
 
-[E-Mail ](mailto:greg@gulrajani.org) | [LinkedIn](https://www.linkedin.com/in/greg-gulrajani-091771/) | [Github](https://github.com/greggulrajani/)
+[E-Mail](mailto:greg@gulrajani.org) | [LinkedIn](https://www.linkedin.com/in/greg-gulrajani-091771/) | [Github](https://github.com/greggulrajani/)
 
 ## 💻 Technical Experience
 
-**Head of Software Development at Nucleus Financial** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
+**Principal Engineer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
 A platform for managing wealth.
 - Alignment of security practices though multiple development teams.
 - Setting strategy for growth by devolving all organisational decision to individual teams.
 - Outlined technology roadmap for supporting multiple wrap platforms.
+- **_Technologies used:_** Java, D2, AWS Services
 
 **Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
 - Oversaw all internal development and reported on current and future development to relevant stakeholders.
@@ -22,11 +23,11 @@ A platform for managing wealth.
 multiple times per day.
 - Attend most Scrum ceremonies for four teams.
 - Participate in code reviews and planning sessions.
-- **_Technologies used:_** AWS Lambda, Faragte, S3, ELB, DynamoDB, Docker, GraphQL, Java, Postgres, Oracle, React, Javascript, Prometheus,. Grafana.
+- **_Technologies used:_** AWS Lambda, Faragte, S3, ELB, DynamoDB, Docker, GraphQL, Java, Postgres, Oracle, React, Javascript, Prometheus, Grafana
 <br><br>
 
 **Lead Developer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2015   - Jan 2017)_ <br>
-- Introduced and designed and co-developed Docker infrastructure for CI/CD pipeline. 
+- Introduced and designed and co-developed Docker infrastructure for CI/CD pipeline.
 - Introduced and started migration away from SSR web applications to React client side frontends.
 - Introduced and developed Hypermedia RESTful API.
 - Developed browser agnostic printing server side printing solution that
@@ -36,7 +37,7 @@ render time of client facing apps and allowed Nucleus to meet regulatory
 reporting requirements.
 - Mentored and managed a team of 5 developers.
 - Participate in code reviews and planning sessions.
-- **_Technologies used:_** Docker, Maven, Jenkins, React, Java, Jira, Gerrit, Oracle.
+- **_Technologies used:_** Docker, Maven, Jenkins, React, Java, Jira, Gerrit, Oracle
 <br><br>
 
 **Senior Developer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2013 - Jan 2015)_ <br>
@@ -53,7 +54,7 @@ reporting requirements.
 - Improved efficiency of calculations by 20% reducing the need for 2 app servers in production.
 - Found and fixed major bug with time and date handling.
 - Helped with migration to JSF.
-- **_Technologies used:_** Java, JSF, Spring 
+- **_Technologies used:_** Java, JSF, Spring
   <br><br>
 
 **Contract Team Lead** @ [Vebnet / Standard Life](https://www.standardlife.com/) _(Jan 2010 - July 2012)_ <br>
@@ -110,6 +111,6 @@ Developed XML Schema parser for XML Search engine.
 
 ## 📌 Personal
 - Father
-- Avid hill runner [Strava](https://www.strava.com/athletes/6909)
+- Avid hill runner [https://www.strava.com/athletes/6909/](https://www.strava.com/athletes/6909/)
 - Photography [https://www.instagram.com/gulrajanigregory/](https://www.instagram.com/gulrajanigregory/) [https://www.blipfoto.com/gwak](https://www.blipfoto.com/gwak)
   <br><br>
