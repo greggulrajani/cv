@@ -9,29 +9,26 @@ _Software engineer, architect and leader based in Edinburgh, Scotland_ <br>
 **Principal Engineer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
 A platform for managing wealth.
 
-- Oversaw development across four Scrum teams.
-- Prototyped solutions for various sprint teams.
-- Collaborated with product owners to develop requirements and initial specifications.
-- Attended most Scrum ceremonies for sprint teams.
-- Developed a two-way bot for Gerrit-Slack CI/CD integration.
-- Participated in reviews for critical patchsets.
-- Contributed to the design and migration of the CI/CD stack to AWS technologies.
-- Developed a consistent and measurable interview process.
-- Aligned security practices across multiple development teams.
-- Outlined the technology roadmap to support multiple wrap platforms.
+- Led development across four Scrum teams, driving collaboration and ensuring timely delivery of high-quality features.
+- Prototyped and implemented scalable solutions that accelerated development cycles and optimized team productivity.
+- Engaged with cross-functional stakeholders to refine requirements, aligning business goals with technical solutions and ensuring clear progress reporting.
+- Reviewed and approved critical patchsets, maintaining code quality and system reliability.
+- Modernized a legacy application by designing a lightweight architecture that preserved core functionality while enhancing the user experience and feature set.
+- Spearheaded the migration of the CI/CD stack to AWS, leveraging cloud-native technologies to increase deployment speed and operational efficiency.
+- Developed and standardized a data-driven interview process, improving the accuracy of technical hiring decisions across engineering teams.
+- Aligned security practices across development teams, ensuring adherence to best practices and regulatory standards.
+- Outlined and executed the technology roadmap to enable the seamless integration of multiple wrap platforms, positioning the company for scalable growth.
+
 - **_Technologies used:_** Java, D2, AWS Services
+  **Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
 
-**Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
-
-- Oversaw all internal development and reported on current and future development to relevant stakeholders.
-- Grew development team and guided the hiring criteria and process.
-- Designed and assisted in porting of all batch and multithreaded ETL processes to AWS Lambda and Fargate infrastructure.
-- Designed and assisted in moving our monolith Java application to AWS Fargate.
-- Created GraphQL API to replace existing Hypermedia API which reduced bandwidth costs by 13%.
-- Help design and develop integration test strategy that allowed us to release
-  multiple times per day.
-- Attend most Scrum ceremonies for four teams.
-- Participate in code reviews and planning sessions.
+- Directed internal development efforts and provided strategic updates on current and upcoming projects to stakeholders, ensuring alignment with business objectives.
+- Expanded the development team by defining and implementing hiring criteria and processes, scaling the team to meet growing demands.
+- Designed and prototyped a microservices architecture, breaking down a monolithic Java application into AWS Fargate and Lambda-based services, improving scalability and flexibility.
+- Developed a new GraphQL API, replacing the existing Hypermedia API, which resulted in a 13% reduction in bandwidth costs and improved API efficiency.
+- Co-developed a comprehensive integration test strategy, enabling the team to deploy code multiple times per day with confidence and reduced downtime.
+- Actively participated in Scrum ceremonies across four teams, fostering collaboration and continuous improvement.
+- Contributed to code reviews and planning sessions, ensuring high-quality code and effective project planning.
 - **_Technologies used:_** AWS Lambda, Fargate, S3, ELB, DynamoDB, Docker, GraphQL, Java, Postgres, Oracle, React, Javascript, Prometheus, Grafana
   <br><br>
 
