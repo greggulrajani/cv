@@ -20,7 +20,8 @@ A platform for managing wealth.
 - Outlined and executed the technology roadmap to enable the seamless integration of multiple wrap platforms, positioning the company for scalable growth.
 
 - **_Technologies used:_** Java, D2, AWS Services
-  **Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
+
+**Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
 
 - Directed internal development efforts and provided strategic updates on current and upcoming projects to stakeholders, ensuring alignment with business objectives.
 - Expanded the development team by defining and implementing hiring criteria and processes, scaling the team to meet growing demands.
