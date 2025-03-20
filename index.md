@@ -2,11 +2,20 @@
 
 _Software engineer, architect and leader based in Edinburgh, Scotland_ <br>
 
-[E-Mail](mailto:greg@gulrajani.org) | [LinkedIn](https://www.linkedin.com/in/greg-gulrajani-091771/) | [Github](https://github.com/greggulrajani/)
+[E-Mail](mailto:greg@gulrajani.org) [Mobile](+44 07939068324) | [LinkedIn](https://www.linkedin.com/in/greg-gulrajani-091771/) | [Github](https://github.com/greggulrajani/)
 
 ## 💻 Technical Experience
 
-**Principal Engineer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Present)_ <br>
+**Staff Engineer** @ [Amici Procurement](https://www.amiciprocurement.com/) _(Jan 2025 - present)_ <br>
+A procurement platform serving the biomedical industry
+
+- Built multiple prototypes using Spring State Machine and Flowable libraries. Concluded that while these libraries met most requirements, a custom in-house solution would offer greater flexibility and long-term stability.
+- Developed and tested prototypes for migrating internal user identity management to a self-hosted Keycloak instance, implementing single-realm multi-tenancy and a flexible, hierarchical structure.
+- Performed daily code reviews to ensure quality and maintainability.
+- Led efforts to standardize coding guidelines across teams.
+- Provided cross-training for developers on new and unfamiliar technologies.
+
+**Principal Engineer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - December 2024)_ <br>
 A platform for managing wealth.
 
 - Led development across four Scrum teams, driving collaboration and ensuring timely delivery of high-quality features.
