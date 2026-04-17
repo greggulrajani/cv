@@ -10,7 +10,12 @@ _Software engineer, architect and leader based in Edinburgh, Scotland_ <br>
 A procurement platform serving the biomedical industry
 
 - Built multiple prototypes using Spring State Machine and Flowable libraries. Concluded that while these libraries met most requirements, a custom in-house solution would offer greater flexibility and long-term stability.
-- Developed and tested prototypes for migrating internal user identity management to a self-hosted Keycloak instance, implementing single-realm multi-tenancy and a flexible, hierarchical structure.
+- Prototyped and validated a migration of internal user identity management to a self-hosted Keycloak instance, designing for single-realm multi-tenancy and a flexible, hierarchical organisation structure.
+- Collaborated with DevOps, test, and development leads to design an incremental release framework and delivery plan for a phased rollout across three releases.
+- Successfully delivered phase one, migrating users and introducing performance improvements that reduced memory footprint and improved responsiveness, while laying the structural groundwork for the hierarchical organisation model.
+- Led the introduction of LLM-assisted development practices across the team, improving the consistency and quality of code reviews and increasing overall tool engagement.
+- Designed and delivered a series of workshops covering GitHub Copilot usage across key engineering workflows: design, code review, prototyping, and bug hunting.
+- Drove AI tooling adoption with 20% of the team integrating these tools into their regular workflows, with ongoing efforts to expand uptake across the organisation.
 - Performed daily code reviews to ensure quality and maintainability.
 - Led efforts to standardize coding guidelines across teams.
 - Provided cross-training for developers on new and unfamiliar technologies.
@@ -78,12 +83,12 @@ A platform for managing wealth.
 
 **Contract Team Lead** @ [Vebnet / Standard Life](https://www.standardlife.com/) _(Jan 2010 - July 2012)_ <br>
 
-- Led team that consisted of 3 to 7 people. Conducted daily stand-ups and carded progress of team members. Conducted daily code reviews by having all developers submit diffs of their un-submitted work. Identified stronger developers and assigned them to work in more sensitive areas and allowed them to peer review weaker developers’ code.
+- Led team that consisted of 3 to 7 people. Conducted daily stand-ups and carded progress of team members. Conducted daily code reviews by having all developers submit diffs of their un-submitted work. Identified stronger developers and assigned them to work in more sensitive areas and allowed them to peer review weaker developers' code.
 - Identified major performance bottlenecks in Hibernate and increased batch processing performance. Identified and repaired many subtle hibernate mapping issues and other critical Hibernate based exceptions.
 - Debugged development and runtime class loader issues on multiple development and production containers.
 - Used profiling tools on UAT and production servers to find production performance bottlenecks.
 - Ported and refactored legacy code from an earlier version of the application. Developed unit tests for legacy code ported into the application.
-- Developed a user facing JavaScript module that reduced the need for clients to request developers’ and analysts’ time for bespoke requirements.
+- Developed a user facing JavaScript module that reduced the need for clients to request developers' and analysts' time for bespoke requirements.
 - Was responsible for UAT and production support for batching processing
   issues. Managed, assigned, and tracked all bugs assigned to the the batch processing component.
 - **_Technologies used:_** Java, Rhino JSR-223, Wicket
