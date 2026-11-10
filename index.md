@@ -33,12 +33,13 @@ A procurement platform for the biomedical industry, serving around 500 client or
   <br><br>
 
 **[Nucleus Financial](https://www.nucleusfinancial.com/)** _(Jan 2013 - Dec 2024)_ <br>
-A regulated wealth management platform with £17bn in assets under administration (AUA) and 200,000 customers. Over 12 years I grew from senior developer to principal engineer, reporting to the CTO from 2015. I built the development team from just me to 18 developers and took the platform from a Java monolith to cloud services on AWS.
+A regulated wealth management platform with £17bn in assets under administration (AUA) and 200,000 customers. Over 12 years I grew from senior developer to head of software engineering and principal engineer, reporting to the CTO from 2015. I built the development team from just me to 18 developers and took the platform from a Java monolith to cloud services on AWS.
 
 - **Hiring and people:** hired around 30 engineers. I involved the whole team in interviews and made decisions by quorum. With the heads of other technical departments, I co-created a rotation programme that moved new hires through every technical department, which HR praised after launch. I also handled performance management, including two improvement plans: one person left, and the other moved to a role where they thrived.
 - **Regulation and security:** shaped engineering practice around CASS, MiFID II reporting and audit requirements. I set up tiered review for critical components such as frontend APIs, organised security training and supported penetration testing.
 
-**Principal Engineer** _(Jan 2022 - Dec 2024)_
+**Head of Software Engineering → Principal Engineer** _(Dec 2021 - Dec 2024)_ <br>
+_Head of Software Engineering from Dec 2021; title changed to Principal Engineer in Jan 2024 with responsibilities unchanged._
 
 - Led technical direction across four Scrum teams of 18 developers, line-managing three lead developers.
 - Modernised the legacy reporting and analysis tools, built on a server-side rendering framework with limited UX options and a shrinking pool of developers. Instead of a big-bang rewrite, I reworked the server side in place to serve a new SPA frontend, improving performance and features. Clients moved over tool by tool, and 30% of users had switched by the time I left.
@@ -47,7 +48,7 @@ A regulated wealth management platform with £17bn in assets under administratio
 - Led integrations with around 30 third-party providers of reporting, analysis and research for customers.
 - **_Technologies used:_** Java, JavaScript, React, AWS (Fargate, Lambda), Jenkins, Docker
 
-**Software Architect** _(Jan 2017 - Dec 2021)_
+**Software Architect** _(Jan 2017 - Nov 2021)_
 
 - Designed the platform as a composable monolith of Maven modules that could be split into services when scaling or team ownership required it. Extracted four services to AWS Fargate and Lambda for scaling: change-data-capture batch processing, long-running reports, the iOS app backend and file storage.
 - Proposed and won agreement for a GraphQL API to replace a granular HATEOAS API that internal frontend teams and third parties found hard to use. It cut bandwidth costs by 13%, improved developer productivity and morale, and drew positive feedback from third parties.

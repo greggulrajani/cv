@@ -32,7 +32,7 @@ A procurement platform serving the biomedical industry.
 ### Nucleus Financial _(Jan 2013 - Dec 2024)_
 A regulated platform for managing wealth, [AUM / scale, e.g. "£XXbn assets, X,000 advisers"].
 
-**[Head of … title, if formal] / Principal Engineer** _(Jan 2022 - Dec 2024)_ — reporting to [CTO / COO]
+**Head of Software Engineering → Principal Engineer** _(Dec 2021 - Dec 2024)_ — reporting to [CTO / COO]
 - Ran engineering across four Scrum teams ([X] engineers, [X] line managers), accountable for delivery, quality and technical direction.
 - Defined and executed the technology roadmap for integrating multiple wrap platforms, working with [exec / product / operations] stakeholders to align priorities with business goals.
 - Led the CI/CD migration to AWS, [result, e.g. cutting release lead time from X to Y].
@@ -42,7 +42,7 @@ A regulated platform for managing wealth, [AUM / scale, e.g. "£XXbn assets, X,0
 - [People leadership: performance management, career framework, promotions, retention — add what applies.]
 - [Budget / vendors: £X budget, contractor or vendor management — add if applicable.]
 
-**Software Architect** _(Jan 2017 - Jan 2022)_
+**Software Architect** _(Jan 2017 - Nov 2021)_
 - Directed internal development and reported on project strategy to stakeholders.
 - Grew the development team from [X] to [Y] by defining hiring criteria and processes.
 - Designed the move from a monolithic Java application to AWS Fargate and Lambda microservices.
