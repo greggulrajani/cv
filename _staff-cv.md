@@ -14,7 +14,7 @@ Staff engineer with over 20 years' experience designing, building and scaling pl
 ## 💻 Technical Experience
 
 **Staff Engineer** @ [Amici Procurement](https://www.amiciprocurement.com/) _(Jan 2025 - present)_ <br>
-A procurement platform for the biomedical industry, serving around 500 client organisations and 25,000 users. I report to the CTO and work across three Scrum teams (about 17 developers), moving between them to lead cross-team initiatives with team leads, QA and product managers.
+A procurement platform for the biomedical industry, serving around 500 client organisations and 25,000 users. I report to the CTO and work across three Scrum teams (about 17 developers), moving between them to lead cross-team initiatives and to find and fix bottlenecks in delivery, working with team leads, QA and product managers.
 
 - **Identity re-architecture:** led the redesign of identity and multi-tenancy on Keycloak, replacing a rushed migration from Microsoft Identity Server that was struggling under load. Phase one moved 500 client organisations to a new data model, cutting role operations from up to a minute to milliseconds and working-day memory use by 15%. Phase two, a new management UI and backend, is in development.
 - Designed a hierarchical, multi-tenant organisation model on a single Keycloak realm, aligned with Keycloak's emerging built-in Organisations support so Amici can switch to it later without re-architecting.
@@ -23,7 +23,6 @@ A procurement platform for the biomedical industry, serving around 500 client or
 - Directed the build of a chemical similarity index from PubChem, filtering 124 million compounds down to the 30 million relevant to customers. Chose Morgan fingerprints with Tanimoto scoring after Hugging Face chemistry models proved less consistent. Recommendations from the index lift conversion by 4% where shown.
 - **Developer platform:** built on-demand environments on Azure Container Apps. Developers and AI agents can spin up a full stack from any combination of repositories and branches in 4–6 minutes, for testing, regression runs and security scans. This ended contention over a few shared integration environments.
 - Spearheaded a GDPR-compliant anonymisation pipeline for client and account data, including personal data hidden in free-text memo fields, so developers can work with realistic data.
-- [Branching and merging: what you changed and the result.]
 - **AI-assisted engineering:** led the adoption of agentic AI (GitHub Copilot and Claude Code) across all three teams. AI code review now runs before and after every commit, agentic workflows handle bug fixes, boilerplate and security scans, and frontend ticket velocity has improved by 7–8%.
 - Introduced labelling for agent-written commits and size caps on agentic pull requests after early large AI-generated commits overloaded reviewers. Adopted across engineering, the labels let reviewers prioritise where human attention is needed.
 - Got architecture decisions agreed through prototypes, C4 diagrams and workshops, tailored to technical and business audiences.
