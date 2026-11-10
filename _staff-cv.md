@@ -7,7 +7,7 @@ The leading underscore in the filename stops Jekyll/GitHub Pages publishing this
 
 _Staff / Principal Engineer · platform architecture, identity, search and AI-assisted engineering · Edinburgh, Scotland_ <br>
 
-[E-Mail](mailto:greg@gulrajani.org) | [Mobile](tel:+447939068324) | [LinkedIn](https://www.linkedin.com/in/greg-gulrajani-091771/) | [Github](https://github.com/greggulrajani/)
+[greg@gulrajani.org](mailto:greg@gulrajani.org) | [+44 7939 068324](tel:+447939068324) | [linkedin.com/in/greg-gulrajani-091771](https://www.linkedin.com/in/greg-gulrajani-091771/) | [github.com/greggulrajani](https://github.com/greggulrajani/)
 
 Staff engineer with over 20 years' experience, including 12 years at Nucleus Financial growing from senior developer to principal engineer on a £17bn regulated wealth platform. I modernise legacy platforms without stopping delivery, design identity, search and cloud architecture, and lead teams through change, most recently bringing agentic AI development to three teams at Amici Procurement. I lead through working prototypes and clear trade-offs, so decisions rest on evidence.
 
@@ -15,7 +15,7 @@ Staff engineer with over 20 years' experience, including 12 years at Nucleus Fin
 
 - **Architecture:** distributed systems, modular monoliths and microservices, multi-tenancy, identity (OIDC, SSO, Keycloak), API design (GraphQL, REST), search (Lucene, chemical similarity)
 - **Cloud and delivery:** AWS (Fargate, Lambda, S3, DynamoDB), Azure Container Apps, Docker, CI/CD (Jenkins, GitHub), on-demand environments
-- **Languages:** Java, Python, JavaScript, React, SQL
+- **Languages:** Java, C#, VB.NET, Python, JavaScript, React, SQL
 - **AI-assisted engineering:** GitHub Copilot, Claude Code, agentic workflows, AI code review and governance
 - **Leadership:** technical strategy, cross-team influence, hiring and mentoring, regulated environments (CASS, MiFID II, GDPR)
 
