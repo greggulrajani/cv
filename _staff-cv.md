@@ -29,52 +29,40 @@ A procurement platform for the biomedical industry, serving around 500 client or
 - **_Technologies used:_** Azure, Azure Container Apps, .NET, Java, Python, Keycloak, Lucene, Docker, GitHub, GitHub Copilot, Claude Code
   <br><br>
 
-**Principal Engineer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2022 - Dec 2024)_ <br>
-A platform for managing wealth.
+**[Nucleus Financial](https://www.nucleusfinancial.com/)** _(Jan 2013 - Dec 2024)_ <br>
+A regulated wealth management platform with £17bn in assets and 200,000 customers. Over 12 years I grew from senior developer to principal engineer, reporting to the CTO from 2015. I built the development team from just me to 18 developers and took the platform from a Java monolith to cloud services on AWS.
 
-- Led development across four Scrum teams, driving collaboration and timely delivery of high-quality features.
-- Prototyped and implemented scalable solutions that shortened development cycles and improved team productivity.
-- Worked with cross-functional stakeholders to refine requirements, align business goals with technical solutions and report progress clearly.
-- Reviewed and approved critical patchsets, maintaining code quality and system reliability.
-- Modernised a legacy application with a lightweight architecture that preserved core functionality while improving the user experience and feature set.
-- Led the migration of the CI/CD stack to AWS, using cloud-native services to speed up deployments and improve operational efficiency.
-- Developed and standardised a data-driven interview process, improving the accuracy of technical hiring decisions across engineering teams.
-- Aligned security practices across development teams to meet best practice and regulatory standards.
-- Defined and executed the technology roadmap for integrating multiple wrap platforms, positioning the company for scalable growth.
-- **_Technologies used:_** Java, D2, AWS Services
-  <br><br>
+- **Hiring and people:** hired around 30 engineers. I involved the whole team in interviews and made decisions by quorum. With the heads of other technical departments, I co-created a rotation programme that moved new hires through every technical department, which HR praised after launch. I also handled performance management, including two improvement plans: one person left, and the other moved to a role where they thrived.
+- **Regulation and security:** shaped engineering practice around CASS, MiFID II reporting and audit requirements. I set up tiered review for critical components such as frontend APIs, organised security training and supported penetration testing.
 
-**Software Architect** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2017 - Jan 2022)_ <br>
+**Principal Engineer** _(Jan 2022 - Dec 2024)_
+- Led technical direction across four Scrum teams of 18 developers, line-managing three lead developers.
+- Modernised the legacy reporting and analysis tools, built on a server-side rendering framework with limited UX options and a shrinking pool of developers. Instead of a big-bang rewrite, I reworked the server side in place to serve a new JavaScript frontend, improving performance and features, and moved clients over tool by tool.
+- Led an evaluation of replacements for on-premises Jenkins: AWS CodePipeline versus Jenkins on a Fargate cluster. Chose Jenkins on Fargate as much cheaper, even including the DevOps time for upgrades.
+- Designed the architecture to bring acquired wrap platforms behind a common front end. The integration was halted by legal issues with platform providers.
+- Led integrations with third-party providers of reporting, analysis and research for customers.
+- **_Technologies used:_** Java, JavaScript, AWS (Fargate, Lambda), Jenkins, Docker, [D2?]
 
-- Directed internal development and gave stakeholders strategic updates on current and upcoming projects, keeping work aligned with business objectives.
-- Grew the development team by defining hiring criteria and processes to meet increasing demand.
-- Designed and prototyped a microservices architecture, breaking a monolithic Java application into AWS Fargate and Lambda services for better scalability and flexibility.
-- Developed a GraphQL API to replace the existing Hypermedia API, cutting bandwidth costs by 13%.
-- Co-developed an integration test strategy that let the team deploy multiple times per day with confidence and less downtime.
-- Took part in Scrum ceremonies, code reviews and planning across four teams.
+**Software Architect** _(Jan 2017 - Dec 2021)_
+- Designed the platform as a composable monolith of Maven modules that could be split into services when scaling or team ownership required it. Extracted four services to AWS Fargate and Lambda for scaling: change-data-capture batch processing, long-running reports, the iOS app backend and file storage.
+- Proposed and won agreement for a GraphQL API to replace a granular HATEOAS API that internal frontend teams and third parties found hard to use. It cut bandwidth costs by 13%, improved developer productivity and morale, and drew positive feedback from third parties.
+- Co-developed an integration test strategy that let the team deploy several times a day with confidence.
+- Kept stakeholders updated on strategy and current projects, balancing developers' interests with the needs of the business during fierce competition for talent.
 - **_Technologies used:_** AWS Lambda, Fargate, S3, ELB, DynamoDB, Docker, GraphQL, Java, Postgres, Oracle, React, JavaScript, Prometheus, Grafana
-  <br><br>
 
-**Lead Developer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2015 - Jan 2017)_ <br>
+**Lead Developer** _(Jan 2015 - Dec 2016)_
+- Took on line management of a team of 5 developers, reporting to the CTO.
+- Introduced Docker into the CI/CD pipeline, and started the move from server-rendered web applications to React frontends.
+- Introduced a hypermedia REST API.
+- Built an offline cache for millions of rows that cut render times in client-facing apps and let Nucleus meet regulatory reporting requirements.
+- Built a server-side PDF printing service that reused the existing React frontends.
+- **_Technologies used:_** Docker, Maven, Jenkins, React, Java, Gerrit, Oracle
 
-- Introduced, designed and co-developed Docker infrastructure for the CI/CD pipeline.
-- Introduced and began the migration from server-rendered web applications to client-side React frontends.
-- Introduced and developed a Hypermedia RESTful API.
-- Developed a browser-agnostic, server-side printing solution that reused existing React frontends to produce PDF output.
-- Developed an offline caching mechanism for millions of rows that reduced render times in client-facing apps and allowed Nucleus to meet regulatory reporting requirements.
-- Mentored and managed a team of 5 developers.
-- Took part in code reviews and planning sessions.
-- **_Technologies used:_** Docker, Maven, Jenkins, React, Java, Jira, Gerrit, Oracle
-  <br><br>
-
-**Senior Developer** @ [Nucleus Financial](https://www.nucleusfinancial.com/) _(Jan 2013 - Jan 2015)_ <br>
-
+**Senior Developer** _(Jan 2013 - Dec 2014)_
 - Designed a modular platform that adapts easily to new business requirements.
-- Developed an app store that lets third-party vendors integrate and sell applications to platform users.
-- Developed a SOAP bridge providing auditing, ACLs and billing.
-- Developed a document store with search, bulk upload and auditing.
-- Designed and maintained development and production servers.
-- **_Technologies used:_** Java, Spring, Wicket, CXF-SOAP, Oracle, Unix (Linux)
+- Built an app store that lets third-party vendors integrate and sell applications to platform users.
+- Built a SOAP bridge providing auditing, access control and billing, and a document store with search, bulk upload and auditing.
+- **_Technologies used:_** Java, Spring, Wicket, CXF-SOAP, Oracle, Linux
   <br><br>
 
 **Contract Developer** @ [Royal London](http://royallondon.com/) _(Aug 2012 - Dec 2012)_ <br>
