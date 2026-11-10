@@ -46,7 +46,7 @@ A regulated wealth management platform with £17bn in assets under administratio
 **Principal Engineer** _(Jan 2022 - Dec 2024)_
 
 - Led technical direction across four Scrum teams of 18 developers, line-managing three lead developers.
-- Modernised the legacy reporting and analysis tools, built on a server-side rendering framework with limited UX options and a shrinking pool of developers. Instead of a big-bang rewrite, I reworked the server side in place to serve a new JavaScript frontend, improving performance and features. Clients moved over tool by tool, and 30% of users had switched by the time I left.
+- Modernised the legacy reporting and analysis tools, built on a server-side rendering framework with limited UX options and a shrinking pool of developers. Instead of a big-bang rewrite, I reworked the server side in place to serve a new SPA frontend, improving performance and features. Clients moved over tool by tool, and 30% of users had switched by the time I left.
 - Led an evaluation of replacements for on-premises Jenkins: AWS CodePipeline versus Jenkins on a Fargate cluster. Chose Jenkins on Fargate as much cheaper, even including the DevOps time for upgrades.
 - Designed the architecture to bring acquired wrap platforms behind a common front end. The integration was halted by legal issues with platform providers.
 - Led integrations with around 30 third-party providers of reporting, analysis and research for customers.
