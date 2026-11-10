@@ -44,6 +44,7 @@ A regulated wealth management platform with £17bn in assets under administratio
 - **Regulation and security:** shaped engineering practice around CASS, MiFID II reporting and audit requirements. I set up tiered review for critical components such as frontend APIs, organised security training and supported penetration testing.
 
 **Principal Engineer** _(Jan 2022 - Dec 2024)_
+
 - Led technical direction across four Scrum teams of 18 developers, line-managing three lead developers.
 - Modernised the legacy reporting and analysis tools, built on a server-side rendering framework with limited UX options and a shrinking pool of developers. Instead of a big-bang rewrite, I reworked the server side in place to serve a new JavaScript frontend, improving performance and features. Clients moved over tool by tool, and 30% of users had switched by the time I left.
 - Led an evaluation of replacements for on-premises Jenkins: AWS CodePipeline versus Jenkins on a Fargate cluster. Chose Jenkins on Fargate as much cheaper, even including the DevOps time for upgrades.
@@ -52,6 +53,7 @@ A regulated wealth management platform with £17bn in assets under administratio
 - **_Technologies used:_** Java, JavaScript, React, AWS (Fargate, Lambda), Jenkins, Docker
 
 **Software Architect** _(Jan 2017 - Dec 2021)_
+
 - Designed the platform as a composable monolith of Maven modules that could be split into services when scaling or team ownership required it. Extracted four services to AWS Fargate and Lambda for scaling: change-data-capture batch processing, long-running reports, the iOS app backend and file storage.
 - Proposed and won agreement for a GraphQL API to replace a granular HATEOAS API that internal frontend teams and third parties found hard to use. It cut bandwidth costs by 13%, improved developer productivity and morale, and drew positive feedback from third parties.
 - Co-developed an integration test strategy that let the team deploy several times a day with confidence.
@@ -59,6 +61,7 @@ A regulated wealth management platform with £17bn in assets under administratio
 - **_Technologies used:_** AWS Lambda, Fargate, S3, ELB, DynamoDB, Docker, GraphQL, Java, Postgres, Oracle, React, JavaScript, Prometheus, Grafana
 
 **Lead Developer** _(Jan 2015 - Dec 2016)_
+
 - Took on line management of a team of 5 developers, reporting to the CTO.
 - Introduced Docker into the CI/CD pipeline, and started the move from server-rendered web applications to React frontends.
 - Introduced a hypermedia REST API.
@@ -67,6 +70,7 @@ A regulated wealth management platform with £17bn in assets under administratio
 - **_Technologies used:_** Docker, Maven, Jenkins, React, Java, Gerrit, Oracle
 
 **Senior Developer** _(Jan 2013 - Dec 2014)_
+
 - Designed a modular platform that adapts easily to new business requirements.
 - Built an app store that lets third-party vendors integrate and sell applications to platform users.
 - Built a SOAP bridge providing auditing, access control and billing, and a document store with search, bulk upload and auditing.
