@@ -22,10 +22,10 @@ A procurement platform for the biomedical industry, serving around 500 client or
 - **Search:** directed the overhaul of search across a 60-million-product catalogue. After trialling LLM approaches, replaced naive search-term splitting with lightweight rules and keyword lists, raising search-to-basket conversion by 18% with no significant extra compute.
 - Directed the build of a chemical similarity index from PubChem, filtering 124 million compounds down to the 30 million relevant to customers. Chose Morgan fingerprints with Tanimoto scoring after Hugging Face chemistry models proved less consistent. Recommendations from the index lift conversion by 4% where shown.
 - **Developer platform:** built on-demand environments on Azure Container Apps. Developers and AI agents can spin up a full stack from any combination of repositories and branches in 4–6 minutes, for testing, regression runs and security scans. This ended contention over a few shared integration environments.
-- Spearheaded a GDPR-compliant anonymisation pipeline for client and account data, including personal data hidden in free-text memo fields, so developers can work with realistic data.
+- Prototyped a GDPR anonymisation pipeline so developers can work with realistic data. Used AI to audit the schema and list every table and column holding client or account personal data, including free-text memo fields. That list drove the data-seeding scripts, which I prototyped and the data team refined.
 - **AI-assisted engineering:** led the adoption of agentic AI (GitHub Copilot and Claude Code) across all three teams. AI code review now runs before and after every commit, agentic workflows handle bug fixes, boilerplate and security scans, and frontend ticket velocity has improved by 7–8%.
 - Introduced labelling for agent-written commits and size caps on agentic pull requests after early large AI-generated commits overloaded reviewers. Adopted across engineering, the labels let reviewers prioritise where human attention is needed.
-- Got architecture decisions agreed through prototypes, C4 diagrams and workshops, tailored to technical and business audiences.
+- Shaped technical direction mainly through working proofs of concept, giving leads something concrete to weigh trade-offs against, backed by C4 diagrams and workshops tailored to technical and business audiences.
 - **_Technologies used:_** Azure, Azure Container Apps, .NET, Java, Python, Keycloak, Lucene, Docker, GitHub, GitHub Copilot, Claude Code
   <br><br>
 
