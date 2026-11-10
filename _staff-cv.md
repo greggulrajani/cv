@@ -9,7 +9,7 @@ _Staff / Principal Engineer · platform architecture, identity, search and AI-as
 
 [greg@gulrajani.org](mailto:greg@gulrajani.org) | [+44 7939 068324](tel:+447939068324) | [linkedin.com/in/greg-gulrajani-091771](https://www.linkedin.com/in/greg-gulrajani-091771/) | [github.com/greggulrajani](https://github.com/greggulrajani/)
 
-Staff engineer with over 20 years' experience, including 12 years at Nucleus Financial growing from senior developer to principal engineer on a £17bn regulated wealth platform. I modernise legacy platforms without stopping delivery, design identity, search and cloud architecture, and lead teams through change, most recently bringing agentic AI development to three teams at Amici Procurement. I lead through working prototypes and clear trade-offs, so decisions rest on evidence.
+Staff engineer with extensive experience, including 12 years at Nucleus Financial growing from senior developer to principal engineer on a £17bn regulated wealth platform. I modernise legacy platforms without stopping delivery, design identity, search and cloud architecture, and lead teams through change, most recently bringing agentic AI development to three teams at Amici Procurement. I lead through working prototypes and clear trade-offs, so decisions rest on evidence.
 
 ## Skills
 
@@ -79,13 +79,11 @@ A regulated wealth management platform with £17bn in assets under administratio
 
 ## Earlier career
 
-- **Contract Developer**, Royal London _(Aug 2012 - Dec 2012)_: improved calculation efficiency by 20%, removing the need for two production servers.
-- **Contract Team Lead**, Vebnet / Standard Life _(Jan 2010 - Jul 2012)_: led a team of 3 to 7 developers, fixed major Hibernate performance bottlenecks in batch processing, and owned UAT and production support for batch.
-- **Application Designer**, BSkyB _(Jan 2009 - Dec 2009)_: designed a rule-driven product selection application combining product, pricing and promotion data, and migrated a billing application from JAX-RPC to Spring-WS.
-- **Contract Developer**, Allianz _(Oct 2007 - Jan 2009)_: built JSF and Seam user interfaces, including a replacement for a Lotus Notes application, with SOAP and JMS integration.
-- **Contract Developer**, NCR _(Mar 2007 - Oct 2007)_: built NFC payment prototypes for Nokia handsets and NCR ATM and point-of-sale equipment.
-- **Developer**, German Research Center for Artificial Intelligence (DFKI) _(Aug 2004 - Mar 2007)_: built semantic web (OWL) data integration in Python, and mentored new staff.
-- **Developer**, Max Planck Institute for Psycholinguistics _(Aug 2002 - Mar 2004)_: designed XML and multimedia search frameworks in Java.
+- **Contract Developer**, Royal London: improved calculation efficiency by 20%, removing the need for two production servers.
+- **Contract Team Lead**, Vebnet / Standard Life: led a team of 3 to 7 developers, fixed major Hibernate performance bottlenecks in batch processing, and owned UAT and production support for batch.
+- **Application Designer**, BSkyB: designed a rule-driven product selection application combining product, pricing and promotion data, and modernised a billing application's web services with Spring-WS.
+- **Contract Developer**, Allianz: built web user interfaces and SOAP and JMS integrations for batch processing systems.
+- **Earlier roles** in research (German Research Center for Artificial Intelligence, Max Planck Institute) and mobile payments (NCR).
 
 ## Personal
 
